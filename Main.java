@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Mohit Is a Genius");
         System.out.println("We the people of India having solemnly resolved to constitute India into a sovereign socialistic and secular republic");
         System.out.println("This is Mohit Singh from patiala House");
+        System.out.println(new Date());
    
     }
 }
