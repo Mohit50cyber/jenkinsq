@@ -26,6 +26,7 @@ public class Main {
         System.out.println("-----------------------------------------------------------------------");
         System.out.println("Hi I am Mohit and I work in publicis sapient");
         System.out.println("QWERTY");
+        System.out.println(new Date());
    
     }
 }
