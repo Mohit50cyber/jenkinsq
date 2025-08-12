@@ -25,6 +25,7 @@ public class Main {
         System.out.println("So today is 12 August 2025");
         System.out.println("-----------------------------------------------------------------------");
         System.out.println("Hi I am Mohit and I work in publicis sapient");
+        System.out.println("QWERTY");
    
     }
 }
