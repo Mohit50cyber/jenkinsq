@@ -20,6 +20,9 @@ public class Main {
         Student s = new Student();
         s.sayHello();
         System.out.println("Student name I don't know");
+        System.out.println("-----------------------------------------------------------------------");
+        System.out.println("-----------------------------------------------------------------------");
+        System.out.println("So today is 12 August 2025");
    
     }
 }
